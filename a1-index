@@ -1,0 +1,37 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+
+<head>
+
+<meta content="text/html; charset = iso-8859-1" http-equiv="Content-Type">
+
+<title>A1 Home Page ITEC1000A Wilson Cheung</title>
+
+</head>
+
+<body style="background-color:lightpurple;">
+
+<h1 style="color:red;">ITEC1000A Assignment 1</h1>
+
+<p>
+This page is to illustrate the use of HTML (Hyper Text Markup Language) codes to create webpages that will also display the answers to this assignment. <br>
+HTML is the standard markup language that is used to create webpages and therefore is a must-learn language for any information technology student. <br>
+With HTML, images, links to other sites, or a link to an email can also be placed in the webpage. Knowing HTML fully will allow for a lot of creative <br>
+webpages to be conjured up. As thisis still a new skill, it will take a lot of practice and understanding to make a webpage look much more presentable. <br>
+<blockquote><img src="http://www.students.yorku.ca/~wkfc/itec1000/images/html_tatoo.jpg" alt="HTML Tatoo" align="middle"></blockquote><br>
+A humourous picture depicting a person's structure as an html document. the end head tag meaning the head are of the human body has ended, and the body tag to 
+describe the body part of the human begins.
+
+The solutions to assignment 1 are
+<a href="http://www.students.yorku.ca/~wkfc/itec1000/a1/a1-solutions.html">here</a>. <br>
+Any emails concerning this assignment can be sent to <a href="mailto:wkfc@my.yorku.ca?subject=Assignment 1">here</a>.
+
+<p>
+<a href="http://validator.w3.org/check?uri=referer">
+<img src="http://www.w3.org/Icons/valid-html40" alt="Valid HTML 4.0 Transitional" height="31" width="88"></a>
+</p>
+
+</body>
+
+</html>
